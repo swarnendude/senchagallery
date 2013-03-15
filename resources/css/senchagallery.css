@@ -9,7 +9,7 @@
 body ,
 .texturebg.x-container,
 .texturebg.x-container .x-scroll-vew{ 
-    background: url(../images/bg.jpg) no-repeat;
+/*    background: url(../images/bg.jpg) no-repeat;*/
 				background-size: 100% 100%;
 }
 
